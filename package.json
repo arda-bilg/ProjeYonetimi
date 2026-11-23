@@ -1,0 +1,12 @@
+{
+  "name": "grup1-auth-project",
+  "version": "1.0.0",
+  "description": "Authentication Module (Register, Login, Reset Password) - Jira & GitHub Kanban Lab",
+  "main": "backend/src/server.js",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "test": "node --test tests/integration.test.js"
+  },
+  "keywords": ["authentication", "kanban", "jira", "github"],
+  "license": "MIT"
+}
